@@ -1,0 +1,1 @@
+([binaryage/chromex "0.5.8"] [binaryage/devtools "0.9.4"] [clojure-complete/clojure-complete "0.2.4" :exclusions ([org.clojure/clojure])] [environ/environ "1.1.0"] [figwheel/figwheel "0.5.10"] [org.clojure/clojure "1.9.0-alpha17"] [org.clojure/clojurescript "1.9.562"] [org.clojure/core.async "0.3.443"] [org.clojure/tools.nrepl "0.2.12" :exclusions ([org.clojure/clojure])])

@@ -1,0 +1,1 @@
+{"version":3,"file":"\/home\/victormartins\/Documents\/my-repositories-gh\/spacechrome\/resources\/unpacked\/compiled\/background\/chromex\/version.js","sources":["version.cljs?rel=1497481555576"],"lineCount":9,"mappings":";AAAA;;AAGA,AAEA,AAAKA,kCAAgB;AAErB,sCAAA,tCAAMC;AAAN,AACED","names":["chromex.version\/current-version","chromex.version\/get-current-version"]}
